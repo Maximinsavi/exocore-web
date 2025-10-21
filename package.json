@@ -31,7 +31,7 @@
   ],
   "license": "MIT",
   "engines": {
-    "node": "23.7.0"
+    "node": "22x"
   },
   "dependencies": {
     "@codemirror/basic-setup": "^0.20.0",
